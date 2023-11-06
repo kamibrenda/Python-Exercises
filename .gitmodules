@@ -4,3 +4,6 @@
 [submodule "FizzBuzz math problem"]
 	path = FizzBuzz math problem
 	url = https://github.com/kamibrenda/FizzBuzz
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://github.com/kamibrenda/Rock_Paper_Scissors
