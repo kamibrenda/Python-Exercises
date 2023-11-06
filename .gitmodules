@@ -4,6 +4,3 @@
 [submodule "FizzBuzz math problem"]
 	path = FizzBuzz math problem
 	url = https://github.com/kamibrenda/FizzBuzz
-[submodule "FizzBuzz"]
-	path = FizzBuzz
-	url = https://github.com/kamibrenda/FizzBuzz
